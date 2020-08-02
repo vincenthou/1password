@@ -1,3 +1,3 @@
 # password generator
 
-http://fouber.github.io/1password/
+http://vincenthou.github.io/1password/
